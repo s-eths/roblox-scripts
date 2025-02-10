@@ -1,4 +1,5 @@
 -- made by @s.eths | this will sell every gun you own for da hood cash, dont use unless you want to sell EVERY skin on your account.
+
 getgenv().ENABLED = true;
 
 while ENABLED do
