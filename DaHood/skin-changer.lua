@@ -1,4 +1,4 @@
--- made by @s.eths | currently only supports galaxy skin for rev, db, tac. also the gun beam color is not 1:1, its close but not exact
+-- currently only supports galaxy skin for rev, db, tac. also the gun beam color is not 1:1, its close but not exact
 
 getgenv().ENABLED = true;
 
